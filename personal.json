@@ -1,0 +1,93 @@
+{
+    "__class__": "Lista",
+    "agentes": [
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "2042990076",
+                "apellido": "Caballero",
+                "nombre": "German",
+                "sueldoB": 50000,
+                "antiguedad": 3,
+                "carrera": "LCC",
+                "cargo": "PROFESOR ADJUNTO",
+                "catedra": "POO",
+                "area": "INTELIGENCIA ARTIFICIAL",
+                "tipo": "INFORMATICA",
+                "categProg": "II",
+                "importe": 5000
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "20116988764",
+                "apellido": "MESSI",
+                "nombre": "LIONEL",
+                "sueldoB": 100000,
+                "antiguedad": 4,
+                "carrera": "LSI",
+                "cargo": "PROFESOR",
+                "catedra": "MATEMATICA BASICA"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "20316544536",
+                "apellido": "VARGAS",
+                "nombre": "MATIAS",
+                "sueldoB": 100000,
+                "antiguedad": 4,
+                "cargo": "",
+                "catedra": "",
+                "area": "DATOS",
+                "tipo": "INFORMATICA"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "20129637410",
+                "apellido": "LOPEZ",
+                "nombre": "LORENA",
+                "sueldoB": 90000,
+                "antiguedad": 5,
+                "cargo": "",
+                "catedra": "",
+                "area": "INTELIGENCIA ARTIFICIAL",
+                "tipo": "INFORMATICA"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "25448746453435435",
+                "apellido": "PEREZ",
+                "nombre": "JULIAN",
+                "sueldoB": 100000,
+                "antiguedad": 7,
+                "cargo": "",
+                "catedra": "",
+                "area": "INTELIGENCIA ARTIFICIAL",
+                "tipo": "INFORMATICA"
+            }
+        },
+        {
+            "__class__": "PersonalApoyo",
+            "__atributos__": {
+                "cuil": "20429637534",
+                "apellido": "MARTINEZ",
+                "nombre": "SANTIAGO",
+                "sueldoB": 85000,
+                "antiguedad": 2,
+                "carrera": "",
+                "cargo": "",
+                "catedra": "",
+                "area": "",
+                "tipo": "",
+                "categoria": 5
+            }
+        }
+    ]
+}
